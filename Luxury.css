@@ -1,0 +1,45 @@
+.lexus,.bentley,.rolls{
+    display: inline-block;
+    border: 2px solid black;
+    margin-top: 10%;
+}
+.lexus{
+    height: auto;
+    width: 30%;
+    margin-right:3%;
+}
+.lexus img{
+    width: 100%;
+    height: 41.5%;
+    display: block;
+    transition: transform 1.2s;
+}
+.lexus:hover img{
+    transform: scale(1.2);
+}
+.bentley{
+    height: auto;
+    width: 30%;
+    margin-right:3%;
+}
+.bentley img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.bentley:hover img{
+    transform: scale(1.2);
+}
+.rolls{
+    height: auto;
+    width: 30%;
+}
+.rolls img{
+    width: 100%;
+    height: 41.5%;
+    display: block;
+    transition: transform 1.2s;
+}
+.rolls:hover img{
+    transform: scale(1.2);
+}

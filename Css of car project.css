@@ -1,0 +1,151 @@
+body{
+    background-color: rgb(211, 206, 206);
+}
+h1{
+    background-color: rgb(177, 156, 156);
+    height: 8%;
+    padding-top: 2%;
+    margin-bottom: 5%;
+}
+.nav{
+    background-color: rgb(96, 94, 94);
+    margin-top: -5%;
+    padding-left: 2%;
+}
+hr{
+    height: 4px;
+    background-color: black;
+}
+span:hover{
+    background-color: grey;
+}
+.one,.two,.three{
+    display: inline-block;
+    border: 2px solid black;
+}
+.four,.five,.six{
+    display: inline-block;
+    border: 2px solid black;
+    margin-top: 10%;
+}
+.seven,.eight,.nine{
+    display: inline-block;
+    border: 2px solid black;
+    margin-top: 10%;
+}
+.one{
+    height: auto;
+    width: 30%;
+    margin-right:3%;
+}
+.one img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.one:hover img{
+    transform: scale(1.2);
+}
+.two{
+    height: auto;
+    width: 30%;
+    margin-right: 3%;
+}
+.two img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.two:hover img{
+    transform: scale(1.2);
+}
+.three{
+    height: auto;
+    width: 30%;
+}
+.three img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.three:hover img{
+    transform: scale(1.2);
+}
+.four{
+    height: auto;
+    width: 30%;
+    margin-right: 3%;
+}
+.four img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.four:hover img{
+    transform: scale(1.2);
+}
+.five{
+    height: auto;
+    width: 30%;
+    margin-right: 3%;
+}
+.five img{
+    width: 100%;
+    height: 41.7%;
+    display: block;
+    transition: transform 1.2s;
+}
+.five:hover img{
+    transform: scale(1.2);
+}
+.six{
+    height: auto;
+    width: 30%;
+}
+.six img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.six:hover img{
+    transform: scale(1.2);
+}
+.seven{
+    height: auto;
+    width: 30%;
+    margin-right: 3%;
+}
+.seven img{
+    width: 100%;
+    height: 41.5%;
+    display: block;
+    transition: transform 1.2s;
+}
+.seven:hover img{
+    transform: scale(1.2);
+}
+.eight{
+    height: auto;
+    width: 30%;
+    margin-right: 3%;
+}
+.eight img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.eight:hover img{
+    transform: scale(1.2);
+}
+.nine{
+    height: auto;
+    width: 30%;
+}
+.nine img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.nine:hover img{
+    transform: scale(1.2);
+}

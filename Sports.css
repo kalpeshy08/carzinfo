@@ -1,0 +1,41 @@
+.mustang,.supra,.porsche{
+    display: inline-block;
+    border: 2px solid black;
+    margin-top: 10%;
+}
+.mustang{
+    height: auto;
+    width: 30%;
+    margin-right:3%;
+}
+.mustang img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.mustang:hover img{
+    transform: scale(1.2);
+}.supra{
+    height: auto;
+    width: 30%;
+    margin-right:3%;
+}
+.supra img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.supra:hover img{
+    transform: scale(1.2);
+}.porsche{
+    height: auto;
+    width: 30%;
+}
+.porsche img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.porsche:hover img{
+    transform: scale(1.2);
+}

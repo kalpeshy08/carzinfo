@@ -1,0 +1,43 @@
+.twizy,.fiat,.kwid{
+    display: inline-block;
+    border: 2px solid black;
+    margin-top: 10%;
+}
+.twizy{
+    height: auto;
+    width: 25%;
+    margin-right:3%;
+}
+.twizy img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.twizy:hover img{
+    transform: scale(1.2);
+}
+.fiat{
+    height: auto;
+    width: 25%;
+    margin-right:3%;
+}
+.fiat img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.fiat:hover img{
+    transform: scale(1.2);
+}
+.kwid{
+    height: auto;
+    width: 25%;
+}
+.kwid img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.kwid:hover img{
+    transform: scale(1.2);
+}

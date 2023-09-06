@@ -1,0 +1,43 @@
+.isuzu,.mahindra,.toyota{
+    display: inline-block;
+    border: 2px solid black;
+    margin-top: 10%;
+}
+.isuzu{
+    height: auto;
+    width: 30%;
+    margin-right: 3%;
+}
+.isuzu img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.isuzu:hover img{
+    transform: scale(1.2);
+}
+.mahindra{
+    height: auto;
+    width: 30%;
+    margin-right: 3%;
+}
+.mahindra img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.mahindra:hover img{
+    transform: scale(1.2);
+}
+.toyota{
+    height: auto;
+    width: 30%;
+}
+.toyota img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.toyota:hover img{
+    transform: scale(1.2);
+}

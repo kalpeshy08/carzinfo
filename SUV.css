@@ -1,0 +1,44 @@
+.rangerover,.xuv,.bmw{
+    display: inline-block;
+    border: 2px solid black;
+    margin-top: 10%;
+}
+.rangerover{
+    height: auto;
+    width: 30%;
+    margin-right:3%;
+}
+.rangerover img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.rangerover:hover img{
+    transform: scale(1.2);
+} 
+.xuv{
+    height: auto;
+    width: 30%;
+    margin-right:3%;
+}
+.xuv img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.xuv:hover img{
+    transform: scale(1.2);
+} 
+.bmw{
+    height: auto;
+    width: 30%;
+}
+.bmw img{
+    width: 100%;
+    height: 35.2%;
+    display: block;
+    transition: transform 1.2s;
+}
+.bmw:hover img{
+    transform: scale(1.2);
+} 

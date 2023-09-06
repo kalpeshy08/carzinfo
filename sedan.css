@@ -1,0 +1,42 @@
+.swift,.virtus,.verna{
+    display: inline-block;
+    border: 2px solid black;
+    margin-top: 10%;
+}
+.swift{
+    height: auto;
+    width: 30%;
+    margin-right:3%;
+}
+.swift img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.swift:hover img{
+    transform: scale(1.2);
+} 
+.virtus{
+    height: auto;
+    width: 30%;
+    margin-right:3%;
+}
+.virtus img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.virtus:hover img{
+    transform: scale(1.2);
+} .verna{
+    height: auto;
+    width: 30%;
+}
+.verna img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.verna:hover img{
+    transform: scale(1.2);
+} 

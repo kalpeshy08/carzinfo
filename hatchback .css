@@ -1,0 +1,43 @@
+.polo,.mini,.i20{
+    display: inline-block;
+    border: 2px solid black;
+    margin-top: 10%;
+}
+.polo{
+    height: auto;
+    width: 30%;
+    margin-right:3%;
+}
+.polo img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.polo:hover img{
+    transform: scale(1.2);
+}
+.mini{
+    height: auto;
+    width: 30%;
+    margin-right:3%;
+}
+.mini img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.mini:hover img{
+    transform: scale(1.2);
+}
+.i20{
+    height: auto;
+    width: 30%;
+}
+.i20 img{
+    width: 100%;
+    display: block;
+    transition: transform 1.2s;
+}
+.i20:hover img{
+    transform: scale(1.2);
+}
